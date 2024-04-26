@@ -45,10 +45,17 @@ To use this tool, you'll need the following:
 
 4. The tool will convert your query into an SQL query, fetch the relevant information from the database, and display the results to you in a human-readable format.
 
-## Known Limitations
+## Why not Chatgpt it?
 
 - Complex questions may not be answered accurately without proper evaluation.
 - The system relies on pre-prepared sets of questions and corresponding SQL queries for few-shot learning. If the query is outside of these pre-prepared sets, accuracy may be compromised.
+
+## Demo of working model
+
+
+https://github.com/utkarshsingh03/llm-database-analyzer/assets/92692056/97fe46d1-94f0-4447-8169-ffb3619bb01e
+
+
 
 ## Contributing
 
